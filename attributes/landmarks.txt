@@ -1,0 +1,100 @@
+Academy (military)
+Academy (manners)
+Academy (nobles)
+Orphanage
+Functional Wizards College
+Abandoned Wizards College
+Friendly witches Hut
+Wizards Tower, occupied
+Wizards Tower, abandoned
+Old man “____”’s house
+Noble’s (or Reeve’s) Manor
+Bardic University
+Thieves’ Den
+Mercenary Hub
+Courier Service
+Town Notice Board
+Ancient ruin/gate, lying dormant
+Entrance to somewhere dangerous, safeguarded
+Arena
+Cemetery
+Civic / Council hall
+Courtroom
+Guild Hall (Artisinal)
+Guild Hall (Tradesman)
+Guild Hall (Mercantile)
+Guild Hall (Hospitality)
+Common or greenway or butterfly garden
+Strong Fortress, abandoned by previous ancient settlers
+Stone Gateway or arch, built before the town
+Library
+House / Keeping place of an important artifact
+Lighthouse or watchtower
+Marketplace
+Large Statue, of nobody knows who
+Large Statue, of founder or king
+Large Statue, of folk lore figure
+Large Statue, of NPC
+Large Statue, of PC??
+Mausoleum
+Reflecting Pool
+Obelisk
+Plaque
+Statue garden
+Wall
+Palace/Castle / Government Building
+Banquet Hall
+Parade grounds
+Pier, marina, or traveler’s bazaar
+Plaza or public square
+Temple
+Theater
+Stockyards
+Prison
+Mine
+Dungeon
+Curious Hill
+Mountain
+Ancient Tree
+Curious Tree
+Toadstool Garden
+Forest Grove
+Museum
+Tower
+Large Hotel
+Haunted House
+Clock
+Lamp post
+An old signpost, now meaningless or grafitti’d
+An obnoxious Advertisement on a Signpost
+Bridge
+Lookout Point
+River
+Lake
+Waterfall
+Swamp
+Decorative Fountain
+Maze
+Cliff
+Odd but small shop for rarities
+Famous Shop
+Famous Restaurant
+Famous Artisan
+Famous merchant
+Famous Tradesman
+Important Warehouse
+Business Headquarters
+Outdoor Festival Venue
+Famous Hero’s childhood home
+Famous Villain’s childhood home
+NPC’s childhood home
+Windmill
+Crashed Ship
+Crashed construct
+Crater
+Hanger for Building Ships/Wagons
+Famous Stables
+A locked door (nobody knows what’s on the other side)
+Bathhouse
+Monastary / Hermitage / Recluse
+A strange figure trapped in Imprisonment spell

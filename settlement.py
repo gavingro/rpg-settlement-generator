@@ -6,6 +6,7 @@ class Settlement:
     """
 
     def __init__(self):
+        self.generate_attributes()
         self.template = self.generate_template()
 
     # Generator scripts to ovverride in subclasses.

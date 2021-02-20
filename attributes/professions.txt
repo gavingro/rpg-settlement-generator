@@ -1,0 +1,111 @@
+general store keeper
+inn keeper
+guard
+sherriff
+magistrate
+master of Ceremony
+food vendor
+pawn shop owner
+magic merchant
+teleportation circle steward
+arborist
+botanical gardener
+scholar / instructor
+gladiator / slaver
+fighting pit / ringmaster
+clay sculptor
+stone mason
+printer
+carpenter
+apothecary
+alchemist
+butcher
+smoke shop tobacconist
+baker
+lamplighter (chandler)
+fletcher
+bowyer
+seamstress/tailor
+smith (tin [white], silver, black)
+ferrier
+furrier
+jeweler
+trapper
+falconer
+tanner
+shephard
+farmer / grocer / fishmonger
+cartographer
+librarian
+book store clerk
+florist (cart)
+menagerie / zoo keeper
+miner (silver/gold/copper/iron/coal)
+slave
+artisan
+painter
+pottery mason
+priests
+madhouse caretaker
+petty noble
+mayor / reeve
+knight
+baron
+count
+duke
+consultant
+cooper
+cobbler (shoes)
+glass blower
+courier / messenger
+stablehand
+doctor / medic
+brewer
+winemaker
+barber
+street cleaner
+chimney sweep
+maid / butler
+lawyer
+academic
+diviner / oracle
+beggar
+town crier
+grave digger
+wainwright
+caravansary / traveling merchant
+dock worker/sailor
+shipwright
+guild master/member
+Spinster
+bathhouse / hot springs worker
+lumber mill worker
+wheelwright
+millwright
+banker
+veterinary
+prostitute/harlot
+washer
+water bearers
+criminal
+lookout
+armorer
+carriage driver / chauffeur
+gambler
+ratter
+dyer
+rope maker
+sail maker
+cultist
+tax collector
+orphanage caretaker
+sage
+philosopher
+priest/cleric
+squire
+soap maker
+parchment maker
+jailor
+bailiff
+lector
+stable master
