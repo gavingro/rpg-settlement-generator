@@ -2,6 +2,7 @@ import unittest
 from random import seed
 from settlement import Settlement
 from village import Village
+from tavern import Tavern
 
 
 class TestSettlement(unittest.TestCase):
@@ -13,9 +14,6 @@ class TestSettlement(unittest.TestCase):
         self.assertEqual(
             self.test_settlement.generate_template(),
             "This is the base settlement generator.",
-        )
-        self.assertEqual(
-            self.test_settlement.template, "This is the base settlement generator.",
         )
 
     def test_settlement_attributes(self):
@@ -42,6 +40,24 @@ class TestVillage(unittest.TestCase):
         self.assertIsInstance(self.test_village.resource, str)
         self.assertIsInstance(self.test_village.culture, str)
         self.assertIsInstance(self.test_village.noble_house, str)
+        self.assertIsInstance(self.test_village.power_player, str)
+        self.assertIsInstance(self.test_village.ideology, str)
+        self.assertIsInstance(self.test_village.profession, str)
+        self.assertIsInstance(self.test_village.landmark1, str)
+        self.assertIsInstance(self.test_village.landmark2, str)
+        self.assertIsInstance(self.test_village.nearby_town, str)
+        self.assertIsInstance(self.test_village.oddity, str)
+
+
+class TestTavern(unittest.TestCase):
+    def setUp(self):
+        seed(69)
+        self.test_tavern = Tavern()
+
+    def test_tavern_attributes(self):
+        self.assertIsInstance(self.test_tavern.structure, str)
+        self.assertIsInstance(self.test_tavern.symbol, str)
+        self.assertIsInstance(self.test_tavern.colour, str)
 
 
 if __name__ == "__main__":

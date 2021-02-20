@@ -1,0 +1,20 @@
+Tavern
+Hotel
+Inn
+Hostel
+Public House
+Motel
+Lodge
+Hospice
+____ (no name)
+[water]house
+Manor
+House
+Place
+Yard
+Retreat
+Saloon
+Resort
+Chalet
+Shelter
+Camp
